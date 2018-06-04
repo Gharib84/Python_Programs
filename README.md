@@ -5,5 +5,7 @@
 2. The Test Score Program
 3. The Future Value Program
 4. The Convert Temperatures Program
+5. The Guess Number Games 
+6. The Pig Dice Game
 
 
