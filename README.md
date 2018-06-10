@@ -7,5 +7,8 @@
 4. The Convert Temperatures Program
 5. The Guess Number Games 
 6. The Pig Dice Game
+7. The Movie List Version One
+8. The Movie List Version Two By Using CSV File
+9. The Movie List Version Three By Binary File
 
 
