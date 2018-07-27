@@ -18,5 +18,6 @@
 15. The Product Viewer Program By Using OOP
 16. The Shopping Card Program By Using The Three Tier Architecture 
 17. Calculate Future Value Program By Using Tkinter Ui
-
+18. The Movies Program Via CLI Without GUI 
+19. The Black Jack Games Via Tkinter & Pygame
 
